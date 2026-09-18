@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "24/7 Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "OneBlock-7xKy.aternos.me",
-    "port": 28284,
+    "ip": "HolaBlocksRP.aternos.me",
+    "port": 47506,
     "version": "1.21.1"
   },
   "position": {
